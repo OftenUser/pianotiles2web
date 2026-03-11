@@ -395,6 +395,7 @@ Id,Mid,Type,Lock,NeedLv,NeedGold,NeedDiamond,NeedCrow,NeedCrow2,Musiclevel,Rewar
 389,100785,1,1,121,,,,,5,1005,,,,50,,,,,1,,,,,,Bagatelles Op.33. III Allegretto,Beethoven 
 390,100786,1,1,121,,,,,1,1001,,,,50,,,,,2,,,,,,3 Poetic Polkas Op.8 No.1,Bedrich Smetana
 391,100787,1,1,121,,,,,1,1001,,,,50,,,,,3,,,,,,Andante in G minor. BWV 969,J.S.Bach
+392,100788,1,1,121,,,,,1,1001,,,,50,,,,,3,,,,,,Euphoric Vista,OftenGuy
 9007,400007,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,Cold Love,å¼ ç¢§æ™¨ã€æ¨å®—çº¬
 9026,400026,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,Mundane World,ã€Šæ‰¶æ‘‡ã€‹æ’æ›²
 9003,400003,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,The Wind Rises,çˆ†ç«ç½‘ç»œç¥žæ›²
