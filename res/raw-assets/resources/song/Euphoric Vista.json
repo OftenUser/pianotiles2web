@@ -1,1 +1,1 @@
-{"baseBpm":150,"musics":[{"(A-1)[K],e[L],a[K],(A-1)[L],f[K];"}]},{"baseBpm":150,"musics":[{"(A-1)[K],a[K],a[K];"}]},{"baseBpm":150,"musics":[{"a[K],a[K];"}]}
+{"baseBpm":150,"musics":[{"bpm":150,"baseBeats":0.5,"scores":["(A-1)[K],e[L],a[K],(A-1)[L],f[K];"],"id":1},{"bpm":150,"baseBeats":0.5,"scores":["(A-1)[K],a[K],a[K];"],"id":2},{"bpm":150,"baseBeats":0.5,"scores":["a[K],a[K];"],"id":3}]}
